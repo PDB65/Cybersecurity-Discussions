@@ -1,5 +1,7 @@
 # Can We Have a Discussion About Cybersecurity? 
 
+![image](https://github.com/user-attachments/assets/bc8da7f5-b8a6-4e6d-b2c5-0db23cfc8aa8)
+
 
   - A dialogue between two cybersecurity experts (Dr. Evans and Ms. Carter).
   - They are discussing the major differences between a **hack** and a **target of opportunity**.
@@ -9,6 +11,5 @@
     
 
 
-  ![image](https://github.com/user-attachments/assets/8a429e9f-33c4-4629-ad62-09aa5927cffa)
 
 
