@@ -1,8 +1,13 @@
-# Can We Have a Discussion About Cybersecurity? 
+# **Can We Have a Discussion About Cybersecurity?**
 
-A dialogue between two cybersecurity experts (Dr. Evans and Ms. Carter).
-  
-![image](https://github.com/user-attachments/assets/bc8da7f5-b8a6-4e6d-b2c5-0db23cfc8aa8)
+---
+
+A dialogue between two cybersecurity experts (**Dr. Evans** and **Ms. Carter**).
+
+
+  ![image](https://github.com/user-attachments/assets/e01e792a-a4e9-49bc-a1a3-5ae1d7a1580f)
+
+
 
 
   
